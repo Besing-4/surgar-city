@@ -1,3 +1,40 @@
 body{
     background-color: aqua;
 }
+.sce{display: flex;
+
+}
+#d3{
+
+}
+#d2{display: inline;
+    
+}
+nav ul li{
+    list-style: none;
+    padding: right 10em;
+    padding-left: 3em; 
+    margin: 5px;
+    text-align: center;
+    display: inline;}
+    .ge{
+        display: flex;
+        padding-left: 25em;
+        padding-right: 25px;
+        margin-inline-end: 14px;
+    }
+    .sc{
+        padding-right: 10em;
+        border-radius: 100%;
+        font-display: 23px;
+    }
+    .ds{
+        padding-left: 70px;
+    }
+    #ig{
+        border-radius: 100%;
+    }
+    #ng{
+        padding-left: 30px;
+        margin: left 35px;
+    }
