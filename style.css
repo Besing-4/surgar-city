@@ -1,7 +1,10 @@
 body{
     background-color: aqua;
+
+
 }
 .sce{display: flex;
+
 
 }
 #d3{
@@ -19,22 +22,14 @@ nav ul li{
     display: inline;}
     .ge{
         display: flex;
-        padding-left: 25em;
-        padding-right: 25px;
-        margin-inline-end: 14px;
+        font-size: 15px;
+        padding: 30px;
+        margin-top: 10px;
+        margin-left: 30px;
+        width: 40%;
     }
-    .sc{
-        padding-right: 10em;
-        border-radius: 100%;
-        font-display: 23px;
-    }
-    .ds{
-        padding-left: 70px;
-    }
-    #ig{
-        border-radius: 100%;
-    }
-    #ng{
-        padding-left: 30px;
-        margin: left 35px;
-    }
+    
+    
+    
+
+    
