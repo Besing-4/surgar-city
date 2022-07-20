@@ -1,7 +1,6 @@
 body{
     background-color: aqua;
 
-
 }
 .sce{display: flex;
 
@@ -26,7 +25,13 @@ nav ul li{
         padding: 30px;
         margin-top: 10px;
         margin-left: 30px;
-        width: 40%;
+gap: 50rem;
+
+
+    }
+    #l1{
+        border-radius: 100%;
+    
     }
     
     
